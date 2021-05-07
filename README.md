@@ -13,7 +13,8 @@ We are using switching providers for:
 The tool for creating the product is [HubSpot](https://www.hubspot.com/)
 The project id is 8966293.
 
-You can downoland the project locally and open it in your IDE or you can open it in HubSPot's IDE. To do this navigate to Marketing -> Files and Templates -> Design Tool.
+You can downoland the project locally and open it in your IDE or you can open it in HubSPot's IDE.
+To do this navigate to Marketing -> Files and Templates -> Design Tool.
 
 ### Project structure
 
